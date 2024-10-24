@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DeathTrapDungeonCPP.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="heroes.cpp" />
     <ClCompile Include="utility.cpp" />
   </ItemGroup>
